@@ -34,8 +34,8 @@
 
             ],
             "scripts": ["node_modules/jquery/dist/jquery.min.js",
-             "/Users/shuyang/Dev/AngularProject/node_modules/admin-lte/dist/js/adminlte.min.js",
-            "node_modules/bootstrap/dist/js/bootstrap.min.js",
+             "node_modules/admin-lte/dist/js/adminlte.min.js",
+            "node_modules/bootstrap/dist/js/bootstrap.min.js"
             ],
             "es5BrowserSupport": true
           },
