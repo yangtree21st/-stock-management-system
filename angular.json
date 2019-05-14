@@ -23,9 +23,20 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.css"
+              "src/styles.css",
+              "node_modules/bootstrap/dist/css/bootstrap.min.css",
+              "node_modules/admin-lte/dist/css/AdminLTE.min.css",
+              "node_modules/admin-lte/dist/css/skins/skin-blue.min.css",
+              "node_modules/admin-lte/bower_components/font-awesome/css/font-awesome.css",
+              "node_modules/admin-lte/bower_components/Ionicons/css/ionicons.min.css",
+              "node_modules/admin-lte/bower_components/morris.js/morris.css",
+              "node_modules/admin-lte/bower_components/jvectormap/jquery-jvectormap.css",
+
             ],
-            "scripts": [],
+            "scripts": ["node_modules/jquery/dist/jquery.min.js",
+             "/Users/shuyang/Dev/AngularProject/node_modules/admin-lte/dist/js/adminlte.min.js",
+            "node_modules/bootstrap/dist/js/bootstrap.min.js",
+            ],
             "es5BrowserSupport": true
           },
           "configurations": {
