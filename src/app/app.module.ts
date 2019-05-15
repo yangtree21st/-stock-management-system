@@ -9,6 +9,9 @@ import { SiderbarComponent } from './siderbar/siderbar.component';
 import { FooterComponent } from './footer/footer.component';
 import { ContentComponent } from './content/content.component';
 
+import { StockManageComponent } from './stock/stock-manage/stock-manage.component';
+import { StarsComponent } from './stars/stars.component';
+
 @NgModule({
   declarations: [
     AppComponent,
@@ -16,7 +19,9 @@ import { ContentComponent } from './content/content.component';
     MenuComponent,
     SiderbarComponent,
     FooterComponent,
-    ContentComponent
+    ContentComponent,
+    StockManageComponent,
+    StarsComponent
   ],
   imports: [
     BrowserModule,
